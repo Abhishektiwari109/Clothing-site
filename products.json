@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Black Hoodie",
+    "price": "₹999",
+    "image": "https://via.placeholder.com/200x200.png?text=Black+Hoodie"
+  },
+  {
+    "name": "White T-Shirt",
+    "price": "₹499",
+    "image": "https://via.placeholder.com/200x200.png?text=White+T-Shirt"
+  },
+  {
+    "name": "Blue Denim Jacket",
+    "price": "₹1299",
+    "image": "https://via.placeholder.com/200x200.png?text=Denim+Jacket"
+  }
+]
