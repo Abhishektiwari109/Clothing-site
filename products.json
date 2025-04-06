@@ -2,16 +2,16 @@
   {
     "name": "Black Hoodie",
     "price": "₹999",
-    "image": "https://ibb.co/1tVLhW8k.png"
+    "image": "https://ibb.co/1tVLhW8k.jpg"
   },
   {
     "name": "White T-Shirt",
     "price": "₹499",
-    "image": "https://via.placeholder.com/200x200.png?text=White+T-Shirt"
+    "image": "https://ibb.co/1tVLhW8k.jpg"
   },
   {
     "name": "Blue Denim Jacket",
     "price": "₹1299",
-    "image": "https://via.placeholder.com/200x200.png?text=Denim+Jacket"
+    "image": "https://ibb.co/1tVLhW8k.jpg"
   }
 ]
